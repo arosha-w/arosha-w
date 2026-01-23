@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arosha-w&label=Profile%20views&color=0e75b6&style=flat" alt="arosha-w" /> </p>
 
-- 🔭 I'm currently working on **crimeLink_Analyzer**
+- 🔭 I'm currently working on **Final year Project CrimeLink_Analyzer**
 
 - 🌱 I'm currently learning **Spring boot and Fast api**
 
