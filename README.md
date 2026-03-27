@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arosha-w&label=Profile%20views&color=0e75b6&style=flat" alt="arosha-w" /> </p>
 
-- 🔭 I'm currently working on **Final year Project CrimeLink_Analyzer**
+- 🔭 I'm currently working on **Smart Appointment & Capacity Prediction System for Salon**
 
-- 🌱 I'm currently learning **Spring boot and Fast api**
+- 🌱 I'm currently learning **DevOps tools right now, such as Kubernetes, Docker, and AWS**
 
 - 📫 How to reach me **aroshaudaraka99@gmail.com**
 
