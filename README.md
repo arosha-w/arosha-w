@@ -40,12 +40,12 @@ During my industrial training, I gained practical experience working in an enter
 **Key Experience:**
 
 - Developed and enhanced features within an **enterprise Java application**
-- Worked with **Spring Framework, Spring Boot and REST-based services**
+- Worked with **Core Java, Spring Framework, Spring Boot, Java Swing and REST and SOAP based services**
 - Contributed to **Java 21 migration and module stabilization**
 - Investigated dependency and class-loading issues using **Maven**
 - Used **Kibana** for log analysis and **Grafana** for application monitoring
 - Worked with **Git and GitLab** in a collaborative development environment
-- Participated in **Scrum ceremonies, Coding Intent sessions and code reviews**
+- Participated in **Scrum ceremonies, Daily Scrum, Coding Intent sessions, code reviews, sprint reviews and Retrospectives.**
 - Collaborated with **Business Analysts, Software Architects and Technical Team Leads**
 - Developed a full-stack training application using **Spring Boot, Angular, REST APIs and PostgreSQL**
 - Gained exposure to **Docker, CI/CD, Jenkins, AWS and enterprise database environments**
