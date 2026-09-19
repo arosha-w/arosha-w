@@ -2,7 +2,7 @@
 
 # Hey there, I'm Arosha 👋
 
-### Software Engineer · Full-Stack Developer · Computer Science Undergraduate
+### Software Engineer · Full-Stack Developer · AI/ML Enthusiast
 
 [![Profile Views](https://komarev.com/ghpvc/?username=arosha-w&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/arosha-w)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arosha-wijekoon-206223312)
@@ -14,16 +14,19 @@
 
 ## 🙋 About Me
 
-I'm a Computer Science undergraduate with hands-on experience in **enterprise software development and full-stack application development**.
+I'm a Computer Science undergraduate with hands-on experience in **enterprise software development, full-stack application development, and AI/ML-focused projects**.
 
 During my industrial training at **CodeGen International**, I worked with an existing enterprise Java codebase, contributed to application development and **Java 21 migration and stabilization**, and gained practical experience in debugging, dependency investigation, application monitoring, and Agile/Scrum development.
 
-I enjoy building complete software solutions across the **backend, frontend, database, and deployment layers**.
+Alongside software engineering, I'm developing my knowledge in **Artificial Intelligence and Machine Learning**, with an interest in integrating intelligent features into practical software solutions.
+
+I enjoy building complete software solutions across the **backend, frontend, database, AI/ML, and deployment layers**.
 
 - 💼 **Industry Experience:** Training Software Engineer at CodeGen International
-- 🔭 **Current Focus:** Java, Spring Boot, React, REST APIs & Full-Stack Development
-- 🌱 **Learning:** Docker, CI/CD, AWS, Kubernetes & Cloud Technologies
-- 💬 **Ask me about:** Java, Spring Boot, React, REST APIs, PostgreSQL and Full-Stack Development
+- 🔭 **Current Focus:** Java, Spring Boot, React, AI/ML & Full-Stack Development
+- 🤖 **AI/ML Interest:** Machine Learning, AI-powered applications, data-driven systems & intelligent features
+- 🌱 **Learning:** Python for AI/ML, Machine Learning, Docker, CI/CD, AWS & Cloud Technologies
+- 💬 **Ask me about:** Java, Spring Boot, React, REST APIs, PostgreSQL, Full-Stack Development & AI/ML
 - 📫 **Reach me at:** [aroshaudaraka99@gmail.com](mailto:aroshaudaraka99@gmail.com)
 
 ---
@@ -51,12 +54,12 @@ During my industrial training, I gained practical experience working in an enter
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -71,6 +74,13 @@ During my industrial training, I gained practical experience working in an enter
 ![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
 ![SOAP](https://img.shields.io/badge/SOAP_Web_Services-555555?style=flat-square)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+### 🤖 AI / Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102A43?style=flat-square)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-6C63FF?style=flat-square)
+![FastAPI](https://img.shields.io/badge/ML_APIs-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### 🎨 Frontend
 
@@ -127,6 +137,7 @@ React · TypeScript · Spring Boot · FastAPI · PostgreSQL · React Native · T
 - 📱 Mobile leave management
 - 🔐 Role-based authentication and authorization
 - 🧩 Service-based architecture
+- 🤖 AI/ML-oriented features and intelligent data analysis
 
 ---
 
@@ -216,19 +227,23 @@ C# · Windows Forms · Microsoft SQL Server
 - Application Monitoring & Log Analysis
 
 ---
-## 📚 Currently Learning
 
-Java & Spring Boot
-        ↓
-Full-Stack Development
-        ↓
-Docker & Containerization
-        ↓
-CI/CD & Jenkins
-        ↓
-AWS & Cloud Technologies
-        ↓
-Kubernetes
+## 🤖 AI / ML Interests
+
+I'm currently expanding my knowledge in:
+
+- Machine Learning Fundamentals
+- Artificial Intelligence
+- Supervised & Unsupervised Learning
+- Data Preprocessing
+- Feature Engineering
+- Model Evaluation
+- AI-powered Application Development
+- Machine Learning API Integration
+- Python for AI/ML
+- Intelligent Software Systems
+
+---
 
 ## 🤝 Let's Connect
 
