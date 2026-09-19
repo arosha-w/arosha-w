@@ -231,3 +231,22 @@ CI/CD & Jenkins
 AWS & Cloud Technologies
         ↓
 Kubernetes
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arosha-wijekoon-206223312)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/arosha%20udaraka)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arosha)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aroshaudaraka99@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<i>⚡ "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler</i>
+
+</div>
