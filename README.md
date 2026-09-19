@@ -232,6 +232,8 @@ AWS & Cloud Technologies
         ↓
 Kubernetes
 
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -239,37 +241,15 @@ Kubernetes
 <a href="https://www.linkedin.com/in/arosha-wijekoon-206223312">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="https://fb.com/arosha%20udaraka">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
+
 <a href="https://instagram.com/arosha">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="mailto:aroshaudaraka99@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
 
-</div>
-
----
-
-<div align="center">
-
-<i>⚡ "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler</i>
-
-</div>## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/arosha-wijekoon-206223312">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://fb.com/arosha%20udaraka">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-<a href="https://instagram.com/arosha">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
 <a href="mailto:aroshaudaraka99@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
