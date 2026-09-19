@@ -2,7 +2,7 @@
 
 # Hey there, I'm Arosha 👋
 
-### Software Engineer · Full-Stack Developer · AI/ML Enthusiast
+### Full-Stack Developer · DevOps Learner · Problem Solver
 
 [![Profile Views](https://komarev.com/ghpvc/?username=arosha-w&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/arosha-w)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arosha-wijekoon-206223312)
@@ -14,234 +14,50 @@
 
 ## 🙋 About Me
 
-I'm a Computer Science undergraduate with hands-on experience in **enterprise software development, full-stack application development, and AI/ML-focused projects**.
+I'm a passionate full-stack developer who loves building end-to-end solutions — from crafting intuitive UIs to designing robust backend systems. Currently diving deep into the DevOps world to bridge the gap between development and deployment.
 
-During my industrial training at **CodeGen International**, I worked with an existing enterprise Java codebase, contributed to application development and **Java 21 migration and stabilization**, and gained practical experience in debugging, dependency investigation, application monitoring, and Agile/Scrum development.
-
-Alongside software engineering, I'm developing my knowledge in **Artificial Intelligence and Machine Learning**, with an interest in integrating intelligent features into practical software solutions.
-
-I enjoy building complete software solutions across the **backend, frontend, database, AI/ML, and deployment layers**.
-
-- 💼 **Industry Experience:** Training Software Engineer at CodeGen International
-- 🔭 **Current Focus:** Java, Spring Boot, React, AI/ML & Full-Stack Development
-- 🤖 **AI/ML Interest:** Machine Learning, AI-powered applications, data-driven systems & intelligent features
-- 🌱 **Learning:** Python for AI/ML, Machine Learning, Docker, CI/CD, AWS & Cloud Technologies
-- 💬 **Ask me about:** Java, Spring Boot, React, REST APIs, PostgreSQL, Full-Stack Development & AI/ML
+- 🔭 **Currently building:** Smart Appointment & Capacity Prediction System for a Salon
+- 🌱 **Currently learning:** DevOps tools — Docker, Kubernetes & AWS
+- 💬 **Ask me about:** Full-stack development, Java/Spring Boot, React, or anything web-related
 - 📫 **Reach me at:** [aroshaudaraka99@gmail.com](mailto:aroshaudaraka99@gmail.com)
-
----
-
-## 💼 Industry Experience
-
-### 🏢 Training Software Engineer — CodeGen International
-
-During my industrial training, I gained practical experience working in an enterprise software development environment.
-
-**Key Experience:**
-
-- Developed and enhanced features within an **enterprise Java application**
-- Worked with **Core Java, Spring Framework, Spring Boot, Java Swing and REST and SOAP based services**
-- Contributed to **Java 21 migration and module stabilization**
-- Investigated dependency and class-loading issues using **Maven**
-- Used **Kibana** for log analysis and **Grafana** for application monitoring
-- Worked with **Git and GitLab** in a collaborative development environment
-- Participated in **Scrum ceremonies, Daily Scrum, Coding Intent sessions, code reviews, sprint reviews and Retrospectives.**
-- Collaborated with **Business Analysts, Software Architects and Technical Team Leads**
-- Developed a full-stack training application using **Spring Boot, Angular, REST APIs and PostgreSQL**
-- Gained exposure to **Docker, CI/CD, Jenkins, AWS and enterprise database environments**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-### ⚙️ Backend & Frameworks
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
-![SOAP](https://img.shields.io/badge/SOAP_Web_Services-555555?style=flat-square)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
-### 🤖 AI / Machine Learning
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102A43?style=flat-square)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-6C63FF?style=flat-square)
-![FastAPI](https://img.shields.io/badge/ML_APIs-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### 🗄️ Databases
+### Backend & Frameworks
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-### 🚀 DevOps & Tools
+### DevOps & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-
-### 📊 Monitoring & Testing
-
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🔎 CrimeLink Analyzer
-
-A crime investigation and data intelligence platform developed as my final-year project.
-
-**Tech Stack:**  
-React · TypeScript · Spring Boot · FastAPI · PostgreSQL · React Native · Tailwind CSS · NativeWind · Docker
-
-**Key Features:**
-
-- 📞 Call Data Analysis with location and time-based filtering
-- 🚗 Vehicle Plate Registry with mobile access
-- 👮 Duty Management System
-- 📊 Weighted duty recommendation
-- 📱 Mobile leave management
-- 🔐 Role-based authentication and authorization
-- 🧩 Service-based architecture
-- 🤖 AI/ML-oriented features and intelligent data analysis
-
----
-
-### 💈 Smart Appointment & Capacity Prediction System
-
-A full-stack appointment management system designed for a salon.
-
-**Tech Stack:**  
-Next.js · React · Spring Boot · PostgreSQL · Tailwind CSS · REST APIs
-
-**Key Features:**
-
-- 📅 Smart appointment booking
-- 📈 Peak-hour and capacity prediction
-- ⚙️ Dynamic appointment slot management
-- 🔄 Smart rescheduling
-- 🚫 Overbooking prevention
-
----
-
-### ✈️ Sun Travel — Full-Stack Training Project
-
-A full-stack application developed during my CodeGen industrial training.
-
-**Tech Stack:**  
-Java · Spring Boot · Maven · Angular · REST APIs · PostgreSQL/Neon
-
-**Worked On:**
-
-- Database and ER diagram design
-- User stories and test cases
-- Spring Boot CRUD operations
-- REST API development
-- Angular components, routing and forms
-- Backend API integration
-- PostgreSQL database integration
-- Unit testing and validation
-
----
-
-### 🏥 Medicare
-
-A web-based hospital management system developed as a group project.
-
-**Tech Stack:**  
-PHP · Laravel · Blade Templates · MySQL · Eloquent ORM
-
-**Key Features:**
-
-- 🔐 Role-based authentication and authorization
-- 📅 Appointment scheduling
-- 📋 Patient record management
-- 📱 Responsive user interface
-
----
-
-### 🛒 Point of Sale System
-
-A desktop-based POS application developed as an academic group project.
-
-**Tech Stack:**  
-C# · Windows Forms · Microsoft SQL Server
-
-**Key Features:**
-
-- 🔐 Role-based authentication
-- 📦 Product and inventory management
-- 📊 Real-time inventory tracking
-- 🧾 Automated billing and invoice generation
-
----
-
-## 🧠 Software Engineering
-
-- Object-Oriented Programming
-- SOLID Principles
-- Design Patterns
-- RESTful API Design
-- API Integration
-- Database Design
-- Agile / Scrum
-- Software Development Life Cycle
-- Code Review
-- Debugging & Root Cause Analysis
-- Enterprise Application Development
-- CI/CD Fundamentals
-- Application Monitoring & Log Analysis
-
----
-
-## 🤖 AI / ML Interests
-
-I'm currently expanding my knowledge in:
-
-- Machine Learning Fundamentals
-- Artificial Intelligence
-- Supervised & Unsupervised Learning
-- Data Preprocessing
-- Feature Engineering
-- Model Evaluation
-- AI-powered Application Development
-- Machine Learning API Integration
-- Python for AI/ML
-- Intelligent Software Systems
 
 ---
 
@@ -249,21 +65,10 @@ I'm currently expanding my knowledge in:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/arosha-wijekoon-206223312">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://fb.com/arosha%20udaraka">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-
-<a href="https://instagram.com/arosha">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<a href="mailto:aroshaudaraka99@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arosha-wijekoon-206223312)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/arosha%20udaraka)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arosha)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aroshaudaraka99@gmail.com)
 
 </div>
 
