@@ -236,6 +236,8 @@ Kubernetes
 
 ## 🤝 Let's Connect
 
+```text
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/arosha-wijekoon-206223312">
